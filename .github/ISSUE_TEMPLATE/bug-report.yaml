@@ -18,7 +18,6 @@ body:
       placeholder: "1.71"
     validations:
       required: true
-    - type: input
   - type: input
     id: environment
     attributes:
